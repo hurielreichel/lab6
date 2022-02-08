@@ -14,9 +14,9 @@ The data about about the city are the following :
 
 * density : population density (inhabitans/km²)
 
-* GDP : Gross Domestic Product in billion Euros
+* gdp : Gross Domestic Product in billion Euros
 
-* Elevation : mean altitude of the city in meters.
+* elevation : mean altitude of the city in meters.
 
 All the information about the cities was retrieved from [Wikipedia](https://www.wikipedia.org/) and the coordinates were extracted from a website called [LATITUDE](https://latitude.to/). The polyline line data of the coastline of Europe was obtained as part of the class of Introduction of Software Programming from the Msc in Geoinformatics and Spatial Data Science at WWU.
 
